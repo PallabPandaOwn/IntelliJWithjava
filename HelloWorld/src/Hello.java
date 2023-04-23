@@ -12,7 +12,5 @@ public class Hello {
         if(isCar){
             System.out.println("This is Maruti");
         }
-
-
     }
 }
